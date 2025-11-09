@@ -1,0 +1,29 @@
+{
+  "Lady Finger Curry": {
+    "title": "Lady Finger Curry",
+    "ingredients": [
+      "Oil",
+      "salt",
+      "jeera",
+      "okra",
+      "onion",
+      "tomatoa",
+      "gralic red paper gravy"
+    ],
+    "instructions": [
+      "First put oil in the pan and live it for 5 minutes to warm",
+      "then add onions and fry unti; it become brown",
+      "add tomatoes make leave it for couple of minutes",
+      "add okra and make it fry",
+      "add masala and any gravy",
+      "leave it for 15 minutes on mid gas"
+    ],
+    "category": "Curry",
+    "prep_time": 0,
+    "cook_time": 0,
+    "servings": 1,
+    "rating": 0.0,
+    "created_date": "2025-08-18T20:47:15.183758",
+    "last_modified": "2025-08-18T20:47:15.183758"
+  }
+}
